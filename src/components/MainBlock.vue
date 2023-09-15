@@ -46,15 +46,15 @@ export default {
         background: url("../assets/main_bg.jpg") center (center / cover) no-repeat
         border-radius: 50px
     &__content
-        width: 434px
+        width: 454px
         margin-left: 52px
         padding-top: 140px
     &__title
         font-size: 64px
-        margin-bottom: 18px
+        margin-bottom: 38px
     &__subtitle
         font-size: 22px
-        margin-bottom: 18px
+        margin-bottom: 38px
     &__button
         width: 220px    
         height: 75px
