@@ -93,6 +93,9 @@ export default {
         display: flex
         align-items: center
         gap: 65px
+        border: 1px solid #E7E7E7
+        border-radius: 80px
+        padding: 20px
         img
             height: 480px
             border-bottom-left-radius: 14%
